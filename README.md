@@ -1,6 +1,8 @@
 # HAProxy DynAgent
 
-## Introuction
+[![Go Report Card](https://goreportcard.com/badge/github.com/lodgify/haproxy-dynagent)](https://goreportcard.com/report/github.com/lodgify/haproxy-dynagent)
+
+## Introduction
 
 The DynAgent is a simple haproxy agent responding to the requests from the agent-check.
 
